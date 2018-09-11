@@ -158,7 +158,7 @@ class CaptchaUpload:
                                        "to access the server using wrong "
                                        "authorization keys. To lift the ban, "
                                        "please, contact our support team via "
-                                       "email: support@2captcha.com")
+                                       "email: mail@azcaptcha.com")
                     return 1
 
         else:
