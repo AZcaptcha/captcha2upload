@@ -1,5 +1,5 @@
-# 2Captcha
-2Captcha team solves your CAPTCHA with high accuracy
+# AZcaptcha
+AZcaptcha.com team solves your CAPTCHA with high accuracy
 
 ## How to install?
 
@@ -10,16 +10,16 @@ pip install captcha2upload
 
 ### Source
 ```
-git clone https://github.com/Mirio/captcha2upload.git
+git clone https://github.com/Thomanphan/captcha2upload.git
 cd captcha2upload
 python setup.py install
 ```
 
 ## How to start?
-[Register Here](http://2captcha.com/?from=1083991)
+[Register Here](http://AZcaptcha.com/?from=1)
 And get the api key:
 * Login in your account
-* Go to "2Captcha API"
+* Go to "AZcaptcha API"
 * Get "CAPTCHA Key"
 
 # Example
