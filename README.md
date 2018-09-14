@@ -10,7 +10,7 @@ pip install captcha2upload
 
 ### Source
 ```
-git clone https://github.com/Thomanphan/captcha2upload.git
+git clone https://github.com/AZcaptcha/captcha2upload.git
 cd captcha2upload
 python setup.py install
 ```
