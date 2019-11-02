@@ -3,10 +3,7 @@ AZcaptcha.com team solves your CAPTCHA with high accuracy
 
 ## How to install?
 
-### pip
-```
-pip install captcha2upload
-```
+
 
 ### Source
 ```
